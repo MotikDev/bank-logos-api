@@ -1,0 +1,1410 @@
+[
+    {
+        "id": 302,
+        "name": "9mobile 9Payment Service Bank",
+        "slug": "9mobile-9payment-service-bank-ng",
+        "code": "120001",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/9mobile-9payment-service-bank-ng.png"
+    },
+    {
+        "id": 174,
+        "name": "Abbey Mortgage Bank",
+        "slug": "abbey-mortgage-bank-ng",
+        "code": "404",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/abbey-mortgage-bank-ng.png"
+    },
+    {
+        "id": 188,
+        "name": "Above Only MFB",
+        "slug": "above-only-mfb",
+        "code": "51204",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/above-only-mfb.png"
+    },
+    {
+        "id": 627,
+        "name": "Abulesoro MFB",
+        "slug": "abulesoro-mfb-ng",
+        "code": "51312",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/abulesoro-mfb-ng.png"
+    },
+    {
+        "id": 1,
+        "name": "Access Bank",
+        "slug": "access-bank",
+        "code": "044",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/access-bank.png"
+    },
+    {
+        "id": 3,
+        "name": "Access Bank (Diamond)",
+        "slug": "access-bank-diamond",
+        "code": "063",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/access-bank-diamond.png"
+    },
+    {
+        "id": 495,
+        "name": "Accion Microfinance Bank",
+        "slug": "accion-microfinance-bank-ng",
+        "code": "602",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/accion-microfinance-bank-ng.png"
+    },
+    {
+        "id": 687,
+        "name": "Aella MFB",
+        "slug": "aella-mfb-ng",
+        "code": "50315",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/aella-mfb-ng.png"
+    },
+    {
+        "id": 780,
+        "name": "AG Mortgage Bank",
+        "slug": "ag-mortgage-bank-ng",
+        "code": "90077",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/ag-mortgage-bank-ng.png"
+    },
+    {
+        "id": 676,
+        "name": "Ahmadu Bello University Microfinance Bank",
+        "slug": "ahmadu-bello-university-microfinance-bank-ng",
+        "code": "50036",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/ahmadu-bello-university-microfinance-bank-ng.png"
+    },
+    {
+        "id": 300,
+        "name": "Airtel Smartcash PSB",
+        "slug": "airtel-smartcash-psb-ng",
+        "code": "120004",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/airtel-smartcash-psb-ng.png"
+    },
+    {
+        "id": 698,
+        "name": "AKU Microfinance Bank",
+        "slug": "aku-mfb",
+        "code": "51336",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/aku-mfb.png"
+    },
+    {
+        "id": 497,
+        "name": "Akuchukwu Microfinance Bank Limited",
+        "slug": "akuchukwu-microfinance-bank-limited-ng",
+        "code": "090561",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/akuchukwu-microfinance-bank-limited-ng.png"
+    },
+    {
+        "id": 27,
+        "name": "ALAT by WEMA",
+        "slug": "alat-by-wema",
+        "code": "035A",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/alat-by-wema.png"
+    },
+    {
+        "id": 707,
+        "name": "Amegy Microfinance Bank",
+        "slug": "amegy-microfinance-bank-ng",
+        "code": "090629",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/amegy-microfinance-bank-ng.png"
+    },
+    {
+        "id": 179,
+        "name": "Amju Unique MFB",
+        "slug": "amju-unique-mfb",
+        "code": "50926",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/amju-unique-mfb.png"
+    },
+    {
+        "id": 795,
+        "name": "Amucha MFB",
+        "slug": "amucha-mfb-ng",
+        "code": "645",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/amucha-mfb-ng.png"
+    },
+    {
+        "id": 800,
+        "name": "Amucha Microfinance Bank",
+        "slug": "amucha-microfinance-bank-ng",
+        "code": "645",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/amucha-microfinance-bank-ng.png"
+    },
+    {
+        "id": 614,
+        "name": "Aramoko MFB",
+        "slug": "aramoko-mfb",
+        "code": "50083",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/aramoko-mfb.png"
+    },
+    {
+        "id": 63,
+        "name": "ASO Savings and Loans",
+        "slug": "asosavings",
+        "code": "401",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/asosavings.png"
+    },
+    {
+        "id": 793,
+        "name": "Assets Microfinance Bank",
+        "slug": "assets-microfinance-bank-ng",
+        "code": "50092",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/assets-microfinance-bank-ng.png"
+    },
+    {
+        "id": 297,
+        "name": "Astrapolaris MFB LTD",
+        "slug": "astrapolaris-mfb",
+        "code": "MFB50094",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/astrapolaris-mfb.png"
+    },
+    {
+        "id": 759,
+        "name": "AVUENEGBE MICROFINANCE BANK",
+        "slug": "avuenegbe-microfinance-bank-ng",
+        "code": "090478",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/avuenegbe-microfinance-bank-ng.png"
+    },
+    {
+        "id": 778,
+        "name": "AWACASH MICROFINANCE BANK",
+        "slug": "awacash-microfinance-bank-ng",
+        "code": "51351",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/awacash-microfinance-bank-ng.png"
+    },
+    {
+        "id": 796,
+        "name": "AZTEC MICROFINANCE BANK LIMITED",
+        "slug": "aztec-microfinance-bank-limited-ng",
+        "code": "51337",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/aztec-microfinance-bank-limited-ng.png"
+    },
+    {
+        "id": 181,
+        "name": "Bainescredit MFB",
+        "slug": "bainescredit-mfb",
+        "code": "51229",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/bainescredit-mfb.png"
+    },
+    {
+        "id": 686,
+        "name": "Banc Corp Microfinance Bank",
+        "slug": "banc-corp-microfinance-bank-ng",
+        "code": "50117",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/banc-corp-microfinance-bank-ng.png"
+    },
+    {
+        "id": 689,
+        "name": "BANKLY MFB",
+        "slug": "ampersand-microfinance-bank-ng",
+        "code": "51341",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/ampersand-microfinance-bank-ng.png"
+    },
+    {
+        "id": 777,
+        "name": "Baobab Microfinance Bank",
+        "slug": "baobab-microfinance-bank-ng",
+        "code": "MFB50992",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/baobab-microfinance-bank-ng.png"
+    },
+    {
+        "id": 783,
+        "name": "BellBank Microfinance Bank",
+        "slug": "bellbank-microfinance-bank-ng",
+        "code": "51100",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/bellbank-microfinance-bank-ng.png"
+    },
+    {
+        "id": 589,
+        "name": "Benysta Microfinance Bank Limited",
+        "slug": "benysta-microfinance-bank-limited",
+        "code": "51267",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/benysta-microfinance-bank-limited.png"
+    },
+    {
+        "id": 771,
+        "name": "Beststar Microfinance Bank",
+        "slug": "beststar-microfinance-bank-ng",
+        "code": "50123",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/beststar-microfinance-bank-ng.png"
+    },
+    {
+        "id": 108,
+        "name": "Bowen Microfinance Bank",
+        "slug": "bowen-microfinance-bank",
+        "code": "50931",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/bowen-microfinance-bank.png"
+    },
+    {
+        "id": 697,
+        "name": "Branch International Finance Company Limited",
+        "slug": "branch",
+        "code": "FC40163",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/branch.png"
+    },
+    {
+        "id": 82,
+        "name": "Carbon",
+        "slug": "carbon",
+        "code": "565",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/carbon.png"
+    },
+    {
+        "id": 781,
+        "name": "Cashbridge Microfinance Bank Limited",
+        "slug": "cashbridge-mfb-ng",
+        "code": "51353",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/cashbridge-mfb-ng.png"
+    },
+    {
+        "id": 692,
+        "name": "CASHCONNECT MFB",
+        "slug": "cashconnect-mfb-ng",
+        "code": "865",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/cashconnect-mfb-ng.png"
+    },
+    {
+        "id": 74,
+        "name": "CEMCS Microfinance Bank",
+        "slug": "cemcs-microfinance-bank",
+        "code": "50823",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/cemcs-microfinance-bank.png"
+    },
+    {
+        "id": 284,
+        "name": "Chanelle Microfinance Bank Limited",
+        "slug": "chanelle-microfinance-bank-limited-ng",
+        "code": "50171",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/chanelle-microfinance-bank-limited-ng.png"
+    },
+    {
+        "id": 704,
+        "name": "Chikum Microfinance bank",
+        "slug": "chikum-microfinance-bank-ng",
+        "code": "312",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/chikum-microfinance-bank-ng.png"
+    },
+    {
+        "id": 2,
+        "name": "Citibank Nigeria",
+        "slug": "citibank-nigeria",
+        "code": "023",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/citibank-nigeria.png"
+    },
+    {
+        "id": 755,
+        "name": "CITYCODE MORTAGE BANK",
+        "slug": "citycode-mortage-bank-ng",
+        "code": "070027",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/citycode-mortage-bank-ng.png"
+    },
+    {
+        "id": 691,
+        "name": "Consumer Microfinance Bank",
+        "slug": "consumer-microfinance-bank-ng",
+        "code": "50910",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/consumer-microfinance-bank-ng.png"
+    },
+    {
+        "id": 283,
+        "name": "Corestep MFB",
+        "slug": "corestep-mfb",
+        "code": "50204",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/corestep-mfb.png"
+    },
+    {
+        "id": 173,
+        "name": "Coronation Merchant Bank",
+        "slug": "coronation-merchant-bank-ng",
+        "code": "559",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/coronation-merchant-bank-ng.png"
+    },
+    {
+        "id": 694,
+        "name": "County Finance Limited",
+        "slug": "county-finance-limited",
+        "code": "FC40128",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/county-finance-limited.png"
+    },
+    {
+        "id": 366,
+        "name": "Crescent MFB",
+        "slug": "crescent-mfb",
+        "code": "51297",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/crescent-mfb.png"
+    },
+    {
+        "id": 634,
+        "name": "Crust Microfinance Bank",
+        "slug": "crust-microfinance-bank-ng",
+        "code": "090560",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/crust-microfinance-bank-ng.png"
+    },
+    {
+        "id": 738,
+        "name": "Davenport MICROFINANCE BANK",
+        "slug": "davenport-microfinance-bank-ng",
+        "code": "51334",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/davenport-microfinance-bank-ng.png"
+    },
+    {
+        "id": 637,
+        "name": "Dot Microfinance Bank",
+        "slug": "dot-microfinance-bank-ng",
+        "code": "50162",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/dot-microfinance-bank-ng.png"
+    },
+    {
+        "id": 4,
+        "name": "Ecobank Nigeria",
+        "slug": "ecobank-nigeria",
+        "code": "050",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/ecobank-nigeria.png"
+    },
+    {
+        "id": 628,
+        "name": "Ekimogun MFB",
+        "slug": "ekimogun-mfb-ng",
+        "code": "50263",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/ekimogun-mfb-ng.png"
+    },
+    {
+        "id": 64,
+        "name": "Ekondo Microfinance Bank",
+        "slug": "ekondo-microfinance-bank-ng",
+        "code": "098",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/ekondo-microfinance-bank-ng.png"
+    },
+    {
+        "id": 761,
+        "name": "EXCEL FINANCE BANK",
+        "slug": "excel-finance-bank-ng",
+        "code": "090678",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/excel-finance-bank-ng.png"
+    },
+    {
+        "id": 677,
+        "name": "Fairmoney Microfinance Bank",
+        "slug": "fairmoney-microfinance-bank-ng",
+        "code": "51318",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/fairmoney-microfinance-bank-ng.png"
+    },
+    {
+        "id": 767,
+        "name": "Fedeth MFB",
+        "slug": "fedeth-mfb-ng",
+        "code": "50298",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/fedeth-mfb-ng.png"
+    },
+    {
+        "id": 6,
+        "name": "Fidelity Bank",
+        "slug": "fidelity-bank",
+        "code": "070",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/fidelity-bank.png"
+    },
+    {
+        "id": 177,
+        "name": "Firmus MFB",
+        "slug": "firmus-mfb",
+        "code": "51314",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/firmus-mfb.png"
+    },
+    {
+        "id": 7,
+        "name": "First Bank of Nigeria",
+        "slug": "first-bank-of-nigeria",
+        "code": "011",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/first-bank-of-nigeria.png"
+    },
+    {
+        "id": 8,
+        "name": "First City Monument Bank",
+        "slug": "first-city-monument-bank",
+        "code": "214",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/first-city-monument-bank.png"
+    },
+    {
+        "id": 757,
+        "name": "FIRST ROYAL MICROFINANCE BANK",
+        "slug": "first-royal-microfinance-bank-ng",
+        "code": "090164",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/first-royal-microfinance-bank-ng.png"
+    },
+    {
+        "id": 682,
+        "name": "FirstTrust Mortgage Bank Nigeria",
+        "slug": "firsttrust-mortgage-bank-nigeria-ng",
+        "code": "413",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/firsttrust-mortgage-bank-nigeria-ng.png"
+    },
+    {
+        "id": 112,
+        "name": "FSDH Merchant Bank Limited",
+        "slug": "fsdh-merchant-bank-limited",
+        "code": "501",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/fsdh-merchant-bank-limited.png"
+    },
+    {
+        "id": 716,
+        "name": "FUTMINNA MICROFINANCE BANK",
+        "slug": "futminna-microfinance-bank-ng",
+        "code": "832",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/futminna-microfinance-bank-ng.png"
+    },
+    {
+        "id": 794,
+        "name": "Garun Mallam MFB",
+        "slug": "garun-mallam-mfb-ng",
+        "code": "MFB51093",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/garun-mallam-mfb-ng.png"
+    },
+    {
+        "id": 287,
+        "name": "Gateway Mortgage Bank LTD",
+        "slug": "gateway-mortgage-bank",
+        "code": "812",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/gateway-mortgage-bank.png"
+    },
+    {
+        "id": 70,
+        "name": "Globus Bank",
+        "slug": "globus-bank",
+        "code": "00103",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/globus-bank.png"
+    },
+    {
+        "id": 769,
+        "name": "Goldman MFB",
+        "slug": "goldman-mfb-ng",
+        "code": "090574",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/goldman-mfb-ng.png"
+    },
+    {
+        "id": 183,
+        "name": "GoMoney",
+        "slug": "gomoney",
+        "code": "100022",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/gomoney.png"
+    },
+    {
+        "id": 756,
+        "name": "GOOD SHEPHERD MICROFINANCE BANK",
+        "slug": "good-shepherd-microfinance-bank-ng",
+        "code": "090664",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/good-shepherd-microfinance-bank-ng.png"
+    },
+    {
+        "id": 635,
+        "name": "Goodnews Microfinance Bank",
+        "slug": "goodnews-microfinance-bank-ng",
+        "code": "50739",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/goodnews-microfinance-bank-ng.png"
+    },
+    {
+        "id": 633,
+        "name": "Greenwich Merchant Bank",
+        "slug": "greenwich-merchant-bank-ng",
+        "code": "562",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/greenwich-merchant-bank-ng.png"
+    },
+    {
+        "id": 789,
+        "name": "GROOMING MICROFINANCE BANK",
+        "slug": "grooming-microfinance-bank-ng",
+        "code": "51276",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/grooming-microfinance-bank-ng.png"
+    },
+    {
+        "id": 9,
+        "name": "Guaranty Trust Bank",
+        "slug": "guaranty-trust-bank",
+        "code": "058",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/guaranty-trust-bank.png"
+    },
+    {
+        "id": 111,
+        "name": "Hackman Microfinance Bank",
+        "slug": "hackman-microfinance-bank",
+        "code": "51251",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/hackman-microfinance-bank.png"
+    },
+    {
+        "id": 81,
+        "name": "Hasal Microfinance Bank",
+        "slug": "hasal-microfinance-bank",
+        "code": "50383",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/hasal-microfinance-bank.png"
+    },
+    {
+        "id": 301,
+        "name": "HopePSB",
+        "slug": "hopepsb-ng",
+        "code": "120002",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/hopepsb-ng.png"
+    },
+    {
+        "id": 75,
+        "name": "IBANK Microfinance Bank",
+        "slug": "IBANK-mfb",
+        "code": "51211",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/IBANK-mfb.png"
+    },
+    {
+        "id": 168,
+        "name": "Ibile Microfinance Bank",
+        "slug": "ibile-mfb",
+        "code": "51244",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/ibile-mfb.png"
+    },
+    {
+        "id": 615,
+        "name": "Ikoyi Osun MFB",
+        "slug": "ikoyi-osun-mfb",
+        "code": "50439",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/ikoyi-osun-mfb.png"
+    },
+    {
+        "id": 636,
+        "name": "Ilaro Poly Microfinance Bank",
+        "slug": "ilaro-poly-microfinance-bank-ng",
+        "code": "50442",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/ilaro-poly-microfinance-bank-ng.png"
+    },
+    {
+        "id": 703,
+        "name": "Imowo MFB",
+        "slug": "imowo-mfb-ng",
+        "code": "50453",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/imowo-mfb-ng.png"
+    },
+    {
+        "id": 754,
+        "name": "IMPERIAL HOMES MORTAGE BANK",
+        "slug": "imperial-homes-mortage-bank-ng",
+        "code": "415",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/imperial-homes-mortage-bank-ng.png"
+    },
+    {
+        "id": 172,
+        "name": "Infinity MFB",
+        "slug": "infinity-mfb",
+        "code": "50457",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/infinity-mfb.png"
+    },
+    {
+        "id": 787,
+        "name": "ISUA MFB",
+        "slug": "isua-mfb-ng",
+        "code": "090701",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/isua-mfb-ng.png"
+    },
+    {
+        "id": 22,
+        "name": "Jaiz Bank",
+        "slug": "jaiz-bank",
+        "code": "301",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/jaiz-bank.png"
+    },
+    {
+        "id": 187,
+        "name": "Kadpoly MFB",
+        "slug": "kadpoly-mfb",
+        "code": "50502",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/kadpoly-mfb.png"
+    },
+    {
+        "id": 768,
+        "name": "KANOPOLY MFB",
+        "slug": "kanopoly-mfb-ng",
+        "code": "51308",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/kanopoly-mfb-ng.png"
+    },
+    {
+        "id": 11,
+        "name": "Keystone Bank",
+        "slug": "keystone-bank",
+        "code": "082",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/keystone-bank.png"
+    },
+    {
+        "id": 784,
+        "name": "KONGAPAY (Kongapay Technologies Limited)(formerly Zinternet)",
+        "slug": "kongapay-tech-ltd",
+        "code": "100025",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/kongapay-tech-ltd.png"
+    },
+    {
+        "id": 184,
+        "name": "Kredi Money MFB LTD",
+        "slug": "kredi-money-mfb",
+        "code": "50200",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/kredi-money-mfb.png"
+    },
+    {
+        "id": 67,
+        "name": "Kuda Bank",
+        "slug": "kuda-bank",
+        "code": "50211",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/kuda-bank.png"
+    },
+    {
+        "id": 109,
+        "name": "Lagos Building Investment Company Plc.",
+        "slug": "lbic-plc",
+        "code": "90052",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/lbic-plc.png"
+    },
+    {
+        "id": 180,
+        "name": "Links MFB",
+        "slug": "links-mfb",
+        "code": "50549",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/links-mfb.png"
+    },
+    {
+        "id": 296,
+        "name": "Living Trust Mortgage Bank",
+        "slug": "living-trust-mortgage-bank",
+        "code": "031",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/living-trust-mortgage-bank.png"
+    },
+    {
+        "id": 753,
+        "name": "LOMA MFB",
+        "slug": "loma-mfb-ng",
+        "code": "50491",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/loma-mfb-ng.png"
+    },
+    {
+        "id": 233,
+        "name": "Lotus Bank",
+        "slug": "lotus-bank",
+        "code": "303",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/lotus-bank.png"
+    },
+    {
+        "id": 764,
+        "name": "MAINSTREET MICROFINANCE BANK",
+        "slug": "mainstreet-microfinance-bank-ng",
+        "code": "090171",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/mainstreet-microfinance-bank-ng.png"
+    },
+    {
+        "id": 175,
+        "name": "Mayfair MFB",
+        "slug": "mayfair-mfb",
+        "code": "50563",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/mayfair-mfb.png"
+    },
+    {
+        "id": 178,
+        "name": "Mint MFB",
+        "slug": "mint-mfb",
+        "code": "50304",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/mint-mfb.png"
+    },
+    {
+        "id": 714,
+        "name": "Money Master PSB",
+        "slug": "money-master-psb-ng",
+        "code": "946",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/money-master-psb-ng.png"
+    },
+    {
+        "id": 688,
+        "name": "Moniepoint MFB",
+        "slug": "moniepoint-mfb-ng",
+        "code": "50515",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/moniepoint-mfb-ng.png"
+    },
+    {
+        "id": 303,
+        "name": "MTN Momo PSB",
+        "slug": "mtn-momo-psb-ng",
+        "code": "120003",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/mtn-momo-psb-ng.png"
+    },
+    {
+        "id": 739,
+        "name": "MUTUAL BENEFITS MICROFINANCE BANK",
+        "slug": "mutual-benefits-microfinance-bank-ng",
+        "code": "090190",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/mutual-benefits-microfinance-bank-ng.png"
+    },
+    {
+        "id": 758,
+        "name": "NDCC MICROFINANCE BANK",
+        "slug": "ndcc-microfinance-bank-ng",
+        "code": "090679",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/ndcc-microfinance-bank-ng.png"
+    },
+    {
+        "id": 776,
+        "name": "NET MICROFINANCE BANK",
+        "slug": "net-microfinance-bank-ng",
+        "code": "51361",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/net-microfinance-bank-ng.png"
+    },
+    {
+        "id": 774,
+        "name": "Nigerian Navy Microfinance Bank Limited",
+        "slug": "nigerian-navy-microfinance-bank-limited-ng",
+        "code": "51142",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/nigerian-navy-microfinance-bank-limited-ng.png"
+    },
+    {
+        "id": 801,
+        "name": "NOVA BANK",
+        "slug": "nova-bank-ng",
+        "code": "561",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/nova-bank-ng.png"
+    },
+    {
+        "id": 715,
+        "name": "NPF MICROFINANCE BANK",
+        "slug": "npf-microfinance-bank-ng",
+        "code": "50629",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/npf-microfinance-bank-ng.png"
+    },
+    {
+        "id": 802,
+        "name": "OLUCHUKWU MICROFINANCE BANK LTD",
+        "slug": "oluchukwu-microfinance-bank-ltd-ng",
+        "code": "50697",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/oluchukwu-microfinance-bank-ltd-ng.png"
+    },
+    {
+        "id": 171,
+        "name": "OPay Digital Services Limited (OPay)",
+        "slug": "paycom",
+        "code": "999992",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/paycom.png"
+    },
+    {
+        "id": 699,
+        "name": "Optimus Bank Limited",
+        "slug": "optimus-bank-ltd",
+        "code": "107",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/optimus-bank-ltd.png"
+    },
+    {
+        "id": 185,
+        "name": "Paga",
+        "slug": "paga",
+        "code": "100002",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/paga.png"
+    },
+    {
+        "id": 169,
+        "name": "PalmPay",
+        "slug": "palmpay",
+        "code": "999991",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/palmpay.png"
+    },
+    {
+        "id": 26,
+        "name": "Parallex Bank",
+        "slug": "parallex-bank",
+        "code": "104",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/parallex-bank.png"
+    },
+    {
+        "id": 110,
+        "name": "Parkway - ReadyCash",
+        "slug": "parkway-ready-cash",
+        "code": "311",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/parkway-ready-cash.png"
+    },
+    {
+        "id": 763,
+        "name": "PATHFINDER MICROFINANCE BANK LIMITED",
+        "slug": "pathfinder-microfinance-bank-limited-ng",
+        "code": "090680",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/pathfinder-microfinance-bank-limited-ng.png"
+    },
+    {
+        "id": 629,
+        "name": "Paystack-Titan",
+        "slug": "titan-paystack",
+        "code": "100039",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/titan-paystack.png"
+    },
+    {
+        "id": 693,
+        "name": "Peace Microfinance Bank",
+        "slug": "peace-microfinance-bank-ng",
+        "code": "50743",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/peace-microfinance-bank-ng.png"
+    },
+    {
+        "id": 775,
+        "name": "PECANTRUST MICROFINANCE BANK LIMITED",
+        "slug": "pecantrust-microfinance-bank-limited-ng",
+        "code": "51226",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/pecantrust-microfinance-bank-limited-ng.png"
+    },
+    {
+        "id": 683,
+        "name": "Personal Trust MFB",
+        "slug": "personal-trust-mfb-ng",
+        "code": "51146",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/personal-trust-mfb-ng.png"
+    },
+    {
+        "id": 170,
+        "name": "Petra Mircofinance Bank Plc",
+        "slug": "petra-microfinance-bank-plc",
+        "code": "50746",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/petra-microfinance-bank-plc.png"
+    },
+    {
+        "id": 762,
+        "name": "PFI FINANCE COMPANY LIMITED",
+        "slug": "pfi-finance-company-limited-ng",
+        "code": "050021",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/pfi-finance-company-limited-ng.png"
+    },
+    {
+        "id": 705,
+        "name": "Platinum Mortgage Bank",
+        "slug": "platinum-mortgage-bank-ng",
+        "code": "268",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/platinum-mortgage-bank-ng.png"
+    },
+    {
+        "id": 13,
+        "name": "Polaris Bank",
+        "slug": "polaris-bank",
+        "code": "076",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/polaris-bank.png"
+    },
+    {
+        "id": 626,
+        "name": "Polyunwana MFB",
+        "slug": "polyunwana-mfb-ng",
+        "code": "50864",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/polyunwana-mfb-ng.png"
+    },
+    {
+        "id": 304,
+        "name": "PremiumTrust Bank",
+        "slug": "premiumtrust-bank-ng",
+        "code": "105",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/premiumtrust-bank-ng.png"
+    },
+    {
+        "id": 792,
+        "name": "Prospa Capital Microfinance Bank",
+        "slug": "prospa-capital-microfinance-bank-ng",
+        "code": "50739",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/prospa-capital-microfinance-bank-ng.png"
+    },
+    {
+        "id": 760,
+        "name": "PROSPERIS FINANCE LIMITED",
+        "slug": "prosperis-finance-limited-ng",
+        "code": "050023",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/prosperis-finance-limited-ng.png"
+    },
+    {
+        "id": 25,
+        "name": "Providus Bank",
+        "slug": "providus-bank",
+        "code": "101",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/providus-bank.png"
+    },
+    {
+        "id": 232,
+        "name": "QuickFund MFB",
+        "slug": "quickfund-mfb",
+        "code": "51293",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/quickfund-mfb.png"
+    },
+    {
+        "id": 176,
+        "name": "Rand Merchant Bank",
+        "slug": "rand-merchant-bank",
+        "code": "502",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/rand-merchant-bank.png"
+    },
+    {
+        "id": 766,
+        "name": "RANDALPHA MICROFINANCE BANK",
+        "slug": "randalpha-microfinance-bank-ng",
+        "code": "090496",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/randalpha-microfinance-bank-ng.png"
+    },
+    {
+        "id": 295,
+        "name": "Refuge Mortgage Bank",
+        "slug": "refuge-mortgage-bank",
+        "code": "90067",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/refuge-mortgage-bank.png"
+    },
+    {
+        "id": 773,
+        "name": "REHOBOTH MICROFINANCE BANK",
+        "slug": "rehoboth-microfinance-bank-ng",
+        "code": "50761",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/rehoboth-microfinance-bank-ng.png"
+    },
+    {
+        "id": 710,
+        "name": "Rephidim Microfinance Bank",
+        "slug": "rephidim",
+        "code": "50994",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/rephidim.png"
+    },
+    {
+        "id": 700,
+        "name": "Rigo Microfinance Bank Limited",
+        "slug": "rigo-microfinance-bank-limited-ng",
+        "code": "51286",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/rigo-microfinance-bank-limited-ng.png"
+    },
+    {
+        "id": 679,
+        "name": "ROCKSHIELD MICROFINANCE BANK",
+        "slug": "rockshield-microfinance-bank-ng",
+        "code": "50767",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/rockshield-microfinance-bank-ng.png"
+    },
+    {
+        "id": 69,
+        "name": "Rubies MFB",
+        "slug": "rubies-mfb",
+        "code": "125",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/rubies-mfb.png"
+    },
+    {
+        "id": 286,
+        "name": "Safe Haven MFB",
+        "slug": "safe-haven-mfb-ng",
+        "code": "51113",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/safe-haven-mfb-ng.png"
+    },
+    {
+        "id": 609,
+        "name": "Safe Haven Microfinance Bank Limited",
+        "slug": "safe-haven-microfinance-bank-limited-ng",
+        "code": "951113",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/safe-haven-microfinance-bank-limited-ng.png"
+    },
+    {
+        "id": 706,
+        "name": "SAGE GREY FINANCE LIMITED",
+        "slug": "sage-grey-finance-limited-ng",
+        "code": "40165",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/sage-grey-finance-limited-ng.png"
+    },
+    {
+        "id": 632,
+        "name": "Shield MFB",
+        "slug": "shield-mfb-ng",
+        "code": "50582",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/shield-mfb-ng.png"
+    },
+    {
+        "id": 750,
+        "name": "Signature Bank Ltd",
+        "slug": "signature-bank-ltd-ng",
+        "code": "106",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/signature-bank-ltd-ng.png"
+    },
+    {
+        "id": 695,
+        "name": "Solid Allianze MFB",
+        "slug": "solid-allianze-mfb",
+        "code": "51062",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/solid-allianze-mfb.png"
+    },
+    {
+        "id": 365,
+        "name": "Solid Rock MFB",
+        "slug": "solid-rock-mfb",
+        "code": "50800",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/solid-rock-mfb.png"
+    },
+    {
+        "id": 72,
+        "name": "Sparkle Microfinance Bank",
+        "slug": "sparkle-microfinance-bank",
+        "code": "51310",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/sparkle-microfinance-bank.png"
+    },
+    {
+        "id": 14,
+        "name": "Stanbic IBTC Bank",
+        "slug": "stanbic-ibtc-bank",
+        "code": "221",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/stanbic-ibtc-bank.png"
+    },
+    {
+        "id": 15,
+        "name": "Standard Chartered Bank",
+        "slug": "standard-chartered-bank",
+        "code": "068",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/standard-chartered-bank.png"
+    },
+    {
+        "id": 765,
+        "name": "STANFORD MICROFINANCE BANK",
+        "slug": "stanford-microfinance-bank-ng",
+        "code": "090162",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/stanford-microfinance-bank-ng.png"
+    },
+    {
+        "id": 779,
+        "name": "STATESIDE MICROFINANCE BANK",
+        "slug": "stateside-microfinance-bank-ng",
+        "code": "50809",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/stateside-microfinance-bank-ng.png"
+    },
+    {
+        "id": 285,
+        "name": "Stellas MFB",
+        "slug": "stellas-mfb",
+        "code": "51253",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/stellas-mfb.png"
+    },
+    {
+        "id": 16,
+        "name": "Sterling Bank",
+        "slug": "sterling-bank",
+        "code": "232",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/sterling-bank.png"
+    },
+    {
+        "id": 23,
+        "name": "Suntrust Bank",
+        "slug": "suntrust-bank",
+        "code": "100",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/suntrust-bank.png"
+    },
+    {
+        "id": 631,
+        "name": "Supreme MFB",
+        "slug": "supreme-mfb-ng",
+        "code": "50968",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/supreme-mfb-ng.png"
+    },
+    {
+        "id": 68,
+        "name": "TAJ Bank",
+        "slug": "taj-bank",
+        "code": "302",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/taj-bank.png"
+    },
+    {
+        "id": 186,
+        "name": "Tangerine Money",
+        "slug": "tangerine-money",
+        "code": "51269",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/tangerine-money.png"
+    },
+    {
+        "id": 790,
+        "name": "The Alternative bank",
+        "slug": "the-alternative-bank-ng",
+        "code": "000304",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/the-alternative-bank-ng.png"
+    },
+    {
+        "id": 73,
+        "name": "Titan Bank",
+        "slug": "titan-bank",
+        "code": "102",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/titan-bank.png"
+    },
+    {
+        "id": 788,
+        "name": "TransPay MFB",
+        "slug": "transpay-mfb-ng",
+        "code": "090708",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/transpay-mfb-ng.png"
+    },
+    {
+        "id": 690,
+        "name": "U&C Microfinance Bank Ltd (U AND C MFB)",
+        "slug": "uc-microfinance-bank-ltd-u-and-c-mfb-ng",
+        "code": "50840",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/uc-microfinance-bank-ltd-u-and-c-mfb-ng.png"
+    },
+    {
+        "id": 786,
+        "name": "UCEE MFB",
+        "slug": "ucee-mfb-ng",
+        "code": "090706",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/ucee-mfb-ng.png"
+    },
+    {
+        "id": 630,
+        "name": "Uhuru MFB",
+        "slug": "uhuru-mfb-ng",
+        "code": "51322",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/uhuru-mfb-ng.png"
+    },
+    {
+        "id": 678,
+        "name": "Unaab Microfinance Bank Limited",
+        "slug": "unaab-microfinance-bank-limited-ng",
+        "code": "50870",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/unaab-microfinance-bank-limited-ng.png"
+    },
+    {
+        "id": 282,
+        "name": "Unical MFB",
+        "slug": "unical-mfb",
+        "code": "50871",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/unical-mfb.png"
+    },
+    {
+        "id": 638,
+        "name": "Unilag Microfinance Bank",
+        "slug": "unilag-microfinance-bank-ng",
+        "code": "51316",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/unilag-microfinance-bank-ng.png"
+    },
+    {
+        "id": 17,
+        "name": "Union Bank of Nigeria",
+        "slug": "union-bank-of-nigeria",
+        "code": "032",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/union-bank-of-nigeria.png"
+    },
+    {
+        "id": 18,
+        "name": "United Bank For Africa",
+        "slug": "united-bank-for-africa",
+        "code": "033",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/united-bank-for-africa.png"
+    },
+    {
+        "id": 19,
+        "name": "Unity Bank",
+        "slug": "unity-bank",
+        "code": "215",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/unity-bank.png"
+    },
+    {
+        "id": 737,
+        "name": "Uzondu Microfinance Bank Awka Anambra State",
+        "slug": "uzondu-microfinance-bank-awka-anambra-state-ng",
+        "code": "50894",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/uzondu-microfinance-bank-awka-anambra-state-ng.png"
+    },
+    {
+        "id": 725,
+        "name": "Vale Finance Limited",
+        "slug": "vale-finance",
+        "code": "050020",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/vale-finance.png"
+    },
+    {
+        "id": 71,
+        "name": "VFD Microfinance Bank Limited",
+        "slug": "vfd",
+        "code": "566",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/vfd.png"
+    },
+    {
+        "id": 701,
+        "name": "Waya Microfinance Bank",
+        "slug": "waya-microfinance-bank-ng",
+        "code": "51355",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/waya-microfinance-bank-ng.png"
+    },
+    {
+        "id": 20,
+        "name": "Wema Bank",
+        "slug": "wema-bank",
+        "code": "035",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/wema-bank.png"
+    },
+    {
+        "id": 797,
+        "name": "Yes MFB",
+        "slug": "yes-mfb-ng",
+        "code": "594",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/yes-mfb-ng.png"
+    },
+    {
+        "id": 21,
+        "name": "Zenith Bank",
+        "slug": "zenith-bank",
+        "code": "057",
+        "supports_transfer": true,
+        "logo": "https://myrunway.ng/bank-images/zenith-bank.png"
+    }
+]
